@@ -1,4 +1,5 @@
 # Line-Detection-Computer-Vision
+
 Use of Computer Vision theory and application to detect lines in selected images through Hough trasnformation. Applicable to real world engineering industries: autonomous automotive vehicle's where line detection is needed for level 2+ of autonomous driving. 
 
 There are five steps that I used for the line detection:
